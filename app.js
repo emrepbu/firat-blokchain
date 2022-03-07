@@ -55,14 +55,6 @@ let firat_chain = new Blockchain();
 firat_chain.addBlock(new Block(1, "01/01/2017", {amount: 4}));
 firat_chain.addBlock(new Block(2, "01/01/2018", {amount: 1}));
 
-
-console.log("Is blockchain valid?: " + firat_chain.isChainValid());
-
-firat_chain.chain[1].data = {amount: 999};
-
-console.log("Is blockchain valid?: " + firat_chain.isChainValid());
-// console.log(JSON.stringify(firat_chain, null, 4));
-
-
+console.log(JSON.stringify(firat_chain, null, 4));
 
 
