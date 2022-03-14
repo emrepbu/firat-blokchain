@@ -4,7 +4,9 @@
 > node app.js
 
 {
-    "chain": [
+
+        "chain": [
+
         {
             "index": 0,
             "timestamp": "01/01/1970",
