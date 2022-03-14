@@ -1,8 +1,6 @@
 # simple blockchain
 
-> simple-blockchain@0.0.0 start ..\GitHub\simple blockchain
 > node app.js
-
 ```
 > node app.js
 Mining block 1...
