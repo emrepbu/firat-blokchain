@@ -121,6 +121,3 @@ console.log("\nBalance of firat_address: " + firat_chain.getBalanceOfAddress("fi
 
 // console.log(JSON.stringify(firat_chain, null, 4));
 
-
-
-
